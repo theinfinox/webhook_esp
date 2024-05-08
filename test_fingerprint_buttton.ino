@@ -4,7 +4,7 @@ const char* ssid = "pi_lap";
 const char* password = "raspberry";
 
 const char* Event_Name = "fingerprint";
-const char* Key = "/60880fb6-1cfe-4de0-b50f-67a8af75de50";
+const char* Key = "/apixyz";
 const char* server = "webhook.site";
 const int serverPort = 80;
 
